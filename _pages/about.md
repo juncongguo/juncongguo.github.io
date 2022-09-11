@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am an assistant professor of Finance at School of Economics, Shanghai University. I obtained a Ph.D. in Mathematics from London School of Economics and Political Science under the supervision of Prof. [Johannes Ruf](http://www.maths.lse.ac.uk/Personal/jruf/). 
+I am a research fellow at Antai College of Economics & Management, Shanghai Jiao Tong University.
 
-My research interests include Machine Learning with applications to Quantitative Finance. Click for my [CV](https://weiguanwang.github.io/files/CV/cv.pdf).
+My research interests include Applied Spatial Econometrics, Regional Economics, and Labor Economics. Now I focus on studying spillovers and peer effects using spatial econometric methods.
+
+Click for my [CV](https://gjc99.github.io/files/CV/cv.pdf).
 
