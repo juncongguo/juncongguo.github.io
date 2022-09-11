@@ -13,5 +13,5 @@ I am a research fellow at Antai College of Economics & Management, Shanghai Jiao
 
 My research interests include Applied Spatial Econometrics, Regional Economics, and Labor Economics. Now I focus on studying spillovers and peer effects using spatial econometric methods.
 
-Click for my [CV](https://gjc99.github.io/files/CV/cv.pdf).
+Click for my [CV](https://gjc99.github.io/files/CV/CV_Juncongguo.pdf).
 
