@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiguan Wang"
+title                    : "Juncong Guo"
 title_separator          : "-"
-name                     : &name "Weiguan Wang"
+name                     : &name "Juncong Guo"
 description              : &description "personal description"
-url                      : https://weiguanwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gjc99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "github.com/weiguanwang.github.io"
+repository               : "github.com/gjc99/gjc99.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weiguan Wang 王伟冠"
+  name             : "Juncong Guo 郭俊聪"
   avatar           : "bio-photo.jpg"
   bio              : ""
-  location         : "Shanghai/London"
+  location         : "Shanghai"
   employer         : 
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=_VssDWEAAAAJ&hl=en"
-  email            : "weiguanwang@outlook.com"
+  pubmed           : # ""
+  googlescholar    : "https://scholar.google.com/citations?user=hJ4d1BkAAAAJ&hl=en"
+  email            : "gjc99@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiguanwang"
+  github           : "gjc99"
   google_plus      :
   keybase          :
   instagram        :
