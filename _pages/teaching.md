@@ -5,11 +5,6 @@ permalink: /teaching/
 author_profile: false
 ---
 
-***Instructor***
-
-- Derivatives Market,  Shanghai University, 202-2022, full and part time MSc. Finance.
-
-
 ***Teaching Assistant***
 
 Economic Geography (undergraduate), teaching assistant to Prof. Hao Hu, Department of Economics, Shanghai University, Fall 2021.
