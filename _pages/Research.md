@@ -18,10 +18,10 @@ author_profile: false
 
 ## Working papers
 
-- Organizational momentum and spatial scaling-up process: evidence from Chinese real estate companies (with Runtian Jing & Yunan Zhao).
+- - Organizational momentum and spatial scaling-up process: evidence from Chinese real estate companies (with Runtian Jing & Yunan Zhao).
 
-- Misreporting, tax evasion, and effects of transaction taxes on housing prices (with Xi Qu & Chuanmin Zhao).
+- - Misreporting, tax evasion, and effects of transaction taxes on housing prices (with Xi Qu & Chuanmin Zhao).
 
-- The effects of pressure and stress on students' academic performance (with Xi Qu).
+- - The effects of pressure and stress on students' academic performance (with Xi Qu).
 
-- 区域经济发展的竞争与协同——基于政府工作报告的文本分析 (与瞿茜副教授和王越合作).
+- - 区域经济发展的竞争与协同——基于政府工作报告的文本分析 (与瞿茜副教授和王越合作).
