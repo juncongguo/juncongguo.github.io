@@ -13,5 +13,5 @@ redirect_from:
 
 - My research interests include Applied Spatial Econometrics, Regional Economics, and Labor Economics. Now I focus on studying spillovers and peer effects using spatial econometric methods.
 
-- Click for my [CV](https://gjc99.github.io/files/CV/CV_Juncongguo.pdf).
+- Click for my [CV](https://juncongguo.github.io/files/CV/CV_Juncongguo.pdf).
 
