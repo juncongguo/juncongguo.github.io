@@ -18,7 +18,7 @@ author_profile: false
 
 ## Working papers
 
-- Peer effects in the employment of female researchers: Magnitude and impact (with Hui Cao)
+- Peer effects in the employment of female researchers: Magnitude and impact (with Hui Cao).
 
 - Organizational momentum and spatial scaling-up process: Evidence from Chinese real estate companies (with Runtian Jing & Yunan Zhao).
 
