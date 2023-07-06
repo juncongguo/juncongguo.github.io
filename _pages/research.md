@@ -18,12 +18,14 @@ author_profile: false
 
 ## Working papers
 
+- Social networks, risk sharing and peer effects in social spending: Evidence from rural China (with Chuanmin Zhao).
+
+- Spillovers in product markets: Evidence from battery electric vehicle sales in China (with Yunyi Hu & Haitao Yin).
+
+- Peer effects in financial investments: Evidence from wealth management products in China (with Xi Qu).
+
 - Peer effects in the employment of female researchers: Magnitude and impact (with Hui Cao).
 
 - Organizational momentum and spatial scaling-up process: Evidence from Chinese real estate companies (with Runtian Jing & Yunan Zhao).
 
-- Misreporting, tax evasion, and effects of transaction taxes on housing prices (with Xi Qu & Chuanmin Zhao).
-
-- The effects of pressure and stress on students' academic performance (with Xi Qu).
-
-- 区域经济增长的竞争与协同——基于对经济增长率的分解 (与瞿茜副教授和王越合作).
+- 区域经济增长的竞争与协同——基于对经济增长率的分解 (与瞿茜和王越合作).
