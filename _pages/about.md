@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-- I am a research fellow at Antai College of Economics & Management, Shanghai Jiao Tong University.
+- I am an assistant research fellow at Antai College of Economics & Management, Shanghai Jiao Tong University.
 
 - My research interests include Applied Spatial Econometrics, Regional Economics, and Labor Economics. Now I focus on studying spillovers and peer effects using spatial econometric methods.
 
