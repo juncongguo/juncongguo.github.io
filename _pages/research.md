@@ -32,6 +32,8 @@ author_profile: false
 
 - Decoding peer effects: The role of information in Chinese household financial investments (with Xi Qu).
 
+- The effects of educational supply regulations: Evidence from China's double reduction policy (with Xi Qu).
+
 - Peer effects in the employment of female researchers: Magnitude and impact (with Hui Cao).
 
 - How temporal and spatial interdependencies shape the locations of reinvestments (with Runtian Jing & Xuan Sun & Yunan Zhao).
