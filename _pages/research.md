@@ -26,13 +26,15 @@ author_profile: false
 
 ## Working papers
 
+- Thirst for talent: Competition in the hiring of high-skilled workers (with [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html), [Yang Yu](https://sites.google.com/site/yangjackyuswebsite/home) & [Weiwei Zheng](https://weiweizheng.eu.org/)). [Available at SSRN](https://ssrn.com/abstract=6152266).
+  
 - Gifts and networks: Understanding peer effects and risk sharing in rural China (with Chuanmin Zhao).
 
-- When subsidies meet spillovers: Evidence from battery electric vehicle market in China (with Yunyi Hu & Haitao Yin).
+- When subsidies meet spillovers: Evidence from battery electric vehicle market in China (with [Yunyi Hu](http://www.huyunyi.cn/index.html) & [Haitao Yin](https://www.acem.sjtu.edu.cn/en/faculty/yinhaitao.html)).
 
-- Decoding peer effects: The role of information in Chinese household financial investments (with Xi Qu).
+- Decoding peer effects: The role of information in Chinese household financial investments (with [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html)).
 
-- The effects of educational supply regulations: Evidence from China's double reduction policy (with Xi Qu).
+- The effects of educational supply regulations: Evidence from China's double reduction policy (with [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html)).
 
 - Peer effects in the employment of female researchers: Magnitude and impact (with Hui Cao).
 
