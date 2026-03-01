@@ -26,7 +26,7 @@ author_profile: false
 
 ## Working papers
 
-- Thirst for talent: Competition in the hiring of high-skilled workers (with [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html), [Yang Yu](https://sites.google.com/site/yangjackyuswebsite/home) & [Weiwei Zheng](https://weiweizheng.eu.org/)). [Available at SSRN](https://ssrn.com/abstract=6152266).
+- The Fear of Falling Behind: Product Market Rivalry and Talent Competition in China (with [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html), [Yang Yu](https://sites.google.com/site/yangjackyuswebsite/home) & [Weiwei Zheng](https://weiweizheng.eu.org/)). [Available at SSRN](https://ssrn.com/abstract=6152266).
   
 - Gifts and networks: Understanding peer effects and risk sharing in rural China (with Chuanmin Zhao).
 
