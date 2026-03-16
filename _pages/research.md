@@ -36,6 +36,4 @@ author_profile: false
 
 - The effects of educational supply regulations: Evidence from China's double reduction policy (with [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html)).
 
-- Peer effects in the employment of female researchers: Magnitude and impact (with Hui Cao).
-
 - How temporal and spatial interdependencies shape the locations of reinvestments (with Runtian Jing & Xuan Sun & Yunan Zhao).
