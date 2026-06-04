@@ -7,7 +7,7 @@ author_profile: false
 
 ## Publications
 - Juncong Guo, [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html)*. "[Competition in household human capital investments: Strength, motivations and consequences.](https://doi.org/10.1016/j.pacfin.2026.103227)" **Pacific-Basin Finance Journal**, 2026, 99: 103227.
-- 
+
 - Juncong Guo, [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html)*. "[Competition in household human capital investments: Strength, motivations and consequences.](https://doi.org/10.1016/j.jdeveco.2022.102937)" **Journal of Development Economics**, 2022, 158: 102937.
 
 - Chuanmin Zhao, Juncong Guo, and [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html)*. "[Stock market reaction to corporate philanthropic response and silence: does charity style matter?](https://doi.org/10.1080/13504851.2020.1814943)" **Applied Economics Letters**, 2021, 28: 1344-1350.
