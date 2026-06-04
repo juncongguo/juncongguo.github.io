@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 ## Publications
-- Juncong Guo, [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html)*. "[Competition in household human capital investments: Strength, motivations and consequences.](https://doi.org/10.1016/j.pacfin.2026.103227)" **Pacific-Basin Finance Journal**, 2026, 99: 103227.
+- Juncong Guo, [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html)*. "[Decoding peer effects: The role of information in Chinese household financial investments.](https://doi.org/10.1016/j.pacfin.2026.103227)" **Pacific-Basin Finance Journal**, 2026, 99: 103227.
 
 - Juncong Guo, [Xi Qu](https://www.acem.sjtu.edu.cn/en/faculty/quxi.html)*. "[Competition in household human capital investments: Strength, motivations and consequences.](https://doi.org/10.1016/j.jdeveco.2022.102937)" **Journal of Development Economics**, 2022, 158: 102937.
 
